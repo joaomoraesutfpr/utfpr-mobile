@@ -21,7 +21,7 @@ O endereço do backend fica em `lib/config.dart` (padrão `http://10.0.2.2:8090`
 - **Usuários de teste** (crie pelo botão "Criar nova conta", pois o banco começa vazio):
   - `teste@utfpr.edu.br` / `senha12345`
   - `outro@utfpr.edu.br` / `senha12345`
-- **Admin do PocketBase:** `joaopedromoraes@utfpr.edu.br` / `Mobile@2026` (ou crie o seu no passo 3).
+- **Admin do PocketBase:** `joaopedromoraes@alunos.utfpr.edu.br` / `Mobile@2026` (ou crie o seu no passo 3).
 - **Emulador:** antes de cadastrar uma solicitação, defina a localização como Curitiba por exemplo em *Extended controls (...) > Location > Set location*. A foto usa a câmera virtual (aperte o obturador e confirme).
 - **Teste sugerido:** crie uma solicitação com foto, comente, edite e exclua. Depois saia (ícone no canto esquerdo da tela principal), entre com o outro usuário e confirme que ele comenta, mas não vê editar nem excluir.
 
