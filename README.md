@@ -49,6 +49,6 @@ O endereço do backend fica em `lib/config.dart` (padrão `http://10.0.2.2:8090`
 
 <img src="docs/edicao-comentario.png" width="250">
 
-**Permissões (outro usuário)**
+**Permissões de comentário e visualização (outro usuário)**
 
 <img src="docs/outro-usuario.png" width="250">
